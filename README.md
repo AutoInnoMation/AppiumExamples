@@ -7,7 +7,7 @@ First we have to make our system ready and then we can start our journey with ap
 https://www.oracle.com/java/technologies/downloads/#jdk17-windows
 2. Download & Install or Download & Unzip Eclipse
 https://www.eclipse.org/downloads/
-3. Download & Install android studion - Android SDK thourgh Android Studio
+3. Download & Install android studio - Android SDK thourgh Android Studio
 https://developer.android.com/studio
 4. Set environment variable(path)
 5. Set JAVA_HOME & ANDROID_HOME
