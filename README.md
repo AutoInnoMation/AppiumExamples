@@ -1,6 +1,6 @@
 # AppiumExamples
 
-To Start Automation with Appium, we have to follow some certian steps.
+To Start Automation with Appium, we have to follow some certain steps.
 First we have to make our system ready and then we can start our journey with appium.
 
 1. Download & Install JDK - 
@@ -10,7 +10,7 @@ https://www.eclipse.org/downloads/
 3. Download & Install android studion - Android SDK thourgh Android Studio
 https://developer.android.com/studio
 4. Set environment variable(path)
-5. Set JAVA_HOME & ANDRIOD_HOME
+5. Set JAVA_HOME & ANDROID_HOME
 6. Plugin Device (turn on developer mode & USB debugging)
     Find build number under settings and tap 7 times on build number.
     Enter your pattern, PIN or password to enable the Developer options menu.
